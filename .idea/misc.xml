@@ -5,12 +5,17 @@
       <map>
         <entry key="..\:/Users/ongyu/AndroidStudioProjects/Practicals/app/src/main/res/layout-land/activity_main.xml" value="0.1" />
         <entry key="..\:/Users/ongyu/AndroidStudioProjects/Practicals/app/src/main/res/layout/activity_list.xml" value="0.16822916666666668" />
+        <entry key="..\:/Users/ongyu/AndroidStudioProjects/Practicals/app/src/main/res/layout/activity_login_page.xml" value="0.16822916666666668" />
+        <entry key="..\:/Users/ongyu/AndroidStudioProjects/Practicals/app/src/main/res/layout/activity_loginuser.xml" value="0.16822916666666668" />
         <entry key="..\:/Users/ongyu/AndroidStudioProjects/Practicals/app/src/main/res/layout/activity_main.xml" value="0.165625" />
         <entry key="..\:/Users/ongyu/AndroidStudioProjects/Practicals/app/src/main/res/layout/activity_message_group.xml" value="0.14666666666666667" />
         <entry key="..\:/Users/ongyu/AndroidStudioProjects/Practicals/app/src/main/res/layout/fragment_1.xml" value="0.16666666666666666" />
         <entry key="..\:/Users/ongyu/AndroidStudioProjects/Practicals/app/src/main/res/layout/fragment_2.xml" value="0.1" />
         <entry key="..\:/Users/ongyu/AndroidStudioProjects/Practicals/app/src/main/res/layout/listactivity_alternatercv.xml" value="0.17941585535465926" />
         <entry key="..\:/Users/ongyu/AndroidStudioProjects/Practicals/app/src/main/res/layout/listactivity_rcv.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/ongyu/AndroidStudioProjects/Practicals/app/src/main/res/layout/login.xml" value="0.16822916666666668" />
+        <entry key="..\:/Users/ongyu/AndroidStudioProjects/Practicals/app/src/main/res/layout/login_activity.xml" value="0.16145833333333334" />
+        <entry key="..\:/Users/ongyu/AndroidStudioProjects/Practicals/app/src/main/res/layout/main_fragment.xml" value="0.22" />
       </map>
     </option>
   </component>

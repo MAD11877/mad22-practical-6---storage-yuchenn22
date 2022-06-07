@@ -10,6 +10,18 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Practicals">
         <activity
+            android:name=".LoginPage"
+            android:exported="false" />
+        <activity
+            android:name=".loginactivity"
+            android:exported="false" />
+        <activity
+            android:name=".Loginuser"
+            android:exported="false" />
+        <activity
+            android:name=".login"
+            android:exported="false" />
+        <activity
             android:name=".MessageGroup"
             android:exported="false" />
         <activity

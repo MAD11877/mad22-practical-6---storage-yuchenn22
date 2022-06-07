@@ -32,6 +32,7 @@ public class MainActivity extends AppCompatActivity {
         username.setText(name);
         description.setText(desc);
         User newUser = new User(name, desc,0 , true);
+        SQLAdapter db = new SQLAdapter(this);
         if (newUser.followed){
             followButton.setText("Unfollow");
         }
@@ -49,14 +50,6 @@ public class MainActivity extends AppCompatActivity {
                     user1.followed = true;
                     Toast.makeText(getApplicationContext(),"Followed", Toast.LENGTH_SHORT).show();
                 }
-            }
-        });
-
-        messageButton.setOnClickListener(new View.OnClickListener(){
-            @Override
-            public void onClick(View v) {
-                Intent activityName = new Intent(MainActivity.this,MessageGroup.class);
-                startActivity(activityName);
             }
         });
     }
